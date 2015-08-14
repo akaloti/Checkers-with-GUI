@@ -15,6 +15,20 @@ Features
 This application supports the general rules of checkers, including crowned pieces and double captures.
 
 
+Directions
+----------
+
+To open the project, open Checkers.sln with Microsoft Visual C++ 2010 Express. Run the project to try it. (Note that the SFML files are included in the repository.)
+
+
+Releases
+--------
+
+The most recent release is: v0.1
+
+The latest code can be found under the releases section of this Git repository.
+
+
 Author
 ------
 
@@ -26,4 +40,4 @@ Contact Information
 
 My email address: aarons.7007@gmail.com
 
-My YouTube channel (in which I demonstrate finished applications): https://www.youtube.com/channel/UCHhcIcXErjijtAI9TWy7wNw/videos
+My YouTube channel (in which I demonstrate finished applications): https://www.youtube.com/channel/UCHhcIcXErjijtAI9TWy7wNw/videos 
