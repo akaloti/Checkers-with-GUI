@@ -8,6 +8,8 @@ This is a Checkers application that I programmed during the summer (2013) after 
 
 I programmed this in C++ with the help of the SFML 2.0 library. I used Microsoft Visual C++ 2010 Express.
 
+Please see the following video for a demonstration: https://www.youtube.com/watch?v=RUPKaMpN1WA.
+
 
 Features
 --------
